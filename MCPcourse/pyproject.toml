@@ -1,0 +1,14 @@
+[project]
+name = "mcpcourse"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mcp[cli]>=1.6.0",
+    "fastapi>=0.109.0",
+    "httpx>=0.27.0",
+    "mcp-use>=1.2.7",
+    "langchain-openai>=0.3.14",
+    "python-dotenv>=1.0.0",
+]

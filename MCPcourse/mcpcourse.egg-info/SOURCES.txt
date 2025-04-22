@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+mcpcourse.egg-info/PKG-INFO
+mcpcourse.egg-info/SOURCES.txt
+mcpcourse.egg-info/dependency_links.txt
+mcpcourse.egg-info/requires.txt
+mcpcourse.egg-info/top_level.txt
+server/__init__.py
+server/weather.py

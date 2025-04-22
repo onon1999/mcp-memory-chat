@@ -1,0 +1,2 @@
+[tool.mcp]
+servers = ["server.weather"] 
